@@ -8,7 +8,8 @@ Capstone  project for the Udacity FSND.
 
 ## Dependencies
 
-Listed in the `requirements.txt`  
+Listed in the `requirements.txt`
+activate venv  
 `pip3 install -r requirements.txt`
 
 ## Roles
